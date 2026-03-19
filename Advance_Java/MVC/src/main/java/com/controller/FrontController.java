@@ -29,6 +29,7 @@ public class FrontController extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		response.getWriter().append("Served at: ").append(request.getContextPath());
+		//this method calling to show result on client side
 		response.setContentType("text/html");
 		RequestDispatcher rd;
 		if(request.getParameter("type").equals("1")) {
