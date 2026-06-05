@@ -2,7 +2,7 @@ package com.jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-
+  
 import com.util.db.MysqlDbConn;
 
 public class DemoInsert_PS {
