@@ -4,7 +4,7 @@ public class StudentDataBean {
 	private String stdId;
 	private String stdName;
 	
-	public StudentDataBean() {
+	public StudentDataBean() {   
 		super();
 		 // TODO Auto-generated constructor stub
 	}
