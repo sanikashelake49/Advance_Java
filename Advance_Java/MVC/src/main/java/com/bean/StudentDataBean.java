@@ -1,7 +1,7 @@
 package com.bean;
 
 public class StudentDataBean {
-	private String stdId;
+	private String stdId;  
 	private String stdName;
 	
 	public StudentDataBean() {   
