@@ -5,7 +5,8 @@ public class CustomerBean {
 	private String custId;
     private String custName;
 	//cons setter getter toString 
-	public CustomerBean() {
+	public CustomerBean() { 
+		
 		super();
 		// TODO Auto-generated constructor stub
 	}
