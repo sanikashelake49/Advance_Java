@@ -3,7 +3,7 @@ package com.bean;
 public class StudentDataBean {
 	private String stdId;  
 	private String stdName; 
-	  
+	   
 	public StudentDataBean() {    
 		super();     
 	 // TODO Auto-generated constructor stub  
