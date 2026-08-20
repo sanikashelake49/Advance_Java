@@ -1,5 +1,5 @@
 package com.bean;
-
+ 
 public class CustomerBean {
 	//properties
 	private String custId;
