@@ -10,7 +10,7 @@ public class StudentDataBean {
 	}
 	public StudentDataBean(String stdId, String stdName) {
 		super();
-		this.stdId = stdId;
+		this.stdId = stdId; 
 		this.stdName = stdName;
 	}
 	public String getStdId() {
